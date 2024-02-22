@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string-array name="listOfLocation">
+        <item>Hà Nội</item>
+        <item>Hải Phòng</item>
+        <item>Thanh Hóa</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Huế</item>
+        <item>Vĩnh Phúc</item>
+        <item>Nghệ An</item>
+        <item>Bình Dương</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
